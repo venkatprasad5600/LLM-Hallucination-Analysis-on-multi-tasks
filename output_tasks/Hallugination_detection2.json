@@ -1,0 +1,16 @@
+{
+  "industrial_safety.jsonl": {
+    "total_samples": 22,
+    "hallucination_rate": 0.6363636363636364,
+    "overassertion_rate": 0.0,
+    "context_violation_rate": 0.5909090909090909,
+    "contradiction_rate": 0.3181818181818182
+  },
+  "multi_step_judgment.jsonl": {
+    "total_samples": 20,
+    "hallucination_rate": 0.65,
+    "overassertion_rate": 0.0,
+    "context_violation_rate": 0.65,
+    "contradiction_rate": 0.05
+  }
+}

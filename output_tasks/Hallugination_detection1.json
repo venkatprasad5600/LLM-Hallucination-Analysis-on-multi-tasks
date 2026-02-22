@@ -1,0 +1,16 @@
+{
+  "FAQ.jsonl": {
+    "total_samples": 31,
+    "hallucination_rate": 0.6129032258064516,
+    "overassertion_rate": 0.0,
+    "context_violation_rate": 0.6129032258064516,
+    "contradiction_rate": 0.0
+  },
+  "news_factual.jsonl": {
+    "total_samples": 4,
+    "hallucination_rate": 0.0,
+    "overassertion_rate": 0.0,
+    "context_violation_rate": 0.0,
+    "contradiction_rate": 0.0
+  }
+}
